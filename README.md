@@ -9,7 +9,7 @@
 
  * [vx-underground.org](https://vx-underground.org/) sysadmin  
 
- * [bird app](https://soundcloud.com/queed-inc) user
+ * [bird app](https://twitter.com/yunginnanet) user
 
  * [matrix](https://www.matrix.org/) user: `@kayos:tcp.direct`
 
