@@ -7,7 +7,7 @@
 
  * [hackcore](https://soundcloud.com/queed-inc) artist  
 
- * [vx-underground.org](https://vx-underground.org/) sysadmin  
+ * [the original vx-underground](https://vxug.fakedoma.in) sysadmin  
 
  * [bird app](https://twitter.com/yunginnanet) user
 
