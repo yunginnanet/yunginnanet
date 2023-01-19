@@ -2,9 +2,9 @@
  <h3> kayos <i>(aka yung innanet)</i> </h3>
  breaking computers with golang and running spooky infrastructure <p />
 
-  | Statistic | Value | Statistic | Value |
+  |  |  |  |  |
   |:---------:|------:|:---------:|------:|
-  | Commits | **1546** | Issues opened | **27** |
+  | Commits | **1547** | Issues opened | **27** |
   | PRs opened | **64** | Stars received | **257** |
   | Repos owned | **20** | Contributed to | **34** |
 
