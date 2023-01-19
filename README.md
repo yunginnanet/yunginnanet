@@ -32,7 +32,7 @@
   | Commits | **{{ COMMITS }}** |
   | Issues opened | **{{ ISSUES }}** |
   | PRs opened | **{{ PULL_REQUESTS }}** |
-  | Stars received **{{ STARS }}** |
+  | Stars received | **{{ STARS }}** |
   | Repos owned | **{{ REPOSITORIES }}** |
   | Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos |
 
