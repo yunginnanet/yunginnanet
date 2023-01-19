@@ -24,6 +24,18 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=t3wbn08kl3uunq96785bd2sl9&unique=1&width=500)
 
+---
+
+  | Statistic | Value |
+  |:---------:|------:|
+  | Account age | **{{ ACCOUNT_AGE }}** years |
+  | Commits | **{{ COMMITS }}** |
+  | Issues opened | **{{ ISSUES }}** |
+  | PRs opened | **{{ PULL_REQUESTS }}** |
+  | Stars received **{{ STARS }}** |
+  | Repos owned | **{{ REPOSITORIES }}** |
+  | Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos |
+
 
 
 </div>
