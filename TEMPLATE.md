@@ -2,7 +2,7 @@
  <h3> kayos <i>(aka yung innanet)</i> </h3>
  breaking computers with golang and running spooky infrastructure <p />
 
-  | Statistic | Value | Statistic | Value |
+  |  |  |  |  |
   |:---------:|------:|:---------:|------:|
   | Commits | **{{ COMMITS }}** | Issues opened | **{{ ISSUES }}** |
   | PRs opened | **{{ PULL_REQUESTS }}** | Stars received | **{{ STARS }}** |
