@@ -28,13 +28,13 @@
 
   | Statistic | Value |
   |:---------:|------:|
-  | Account age | **{{ ACCOUNT_AGE }}** years |
-  | Commits | **{{ COMMITS }}** |
-  | Issues opened | **{{ ISSUES }}** |
-  | PRs opened | **{{ PULL_REQUESTS }}** |
-  | Stars received | **{{ STARS }}** |
-  | Repos owned | **{{ REPOSITORIES }}** |
-  | Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repos |
+  | Account age | **3** years |
+  | Commits | **1544** |
+  | Issues opened | **27** |
+  | PRs opened | **64** |
+  | Stars received | **256** |
+  | Repos owned | **20** |
+  | Contributed to | **34** public repos |
 
 
 
