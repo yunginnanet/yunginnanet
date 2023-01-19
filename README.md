@@ -1,11 +1,15 @@
 <div align="center">
  <h3> kayos <i>(aka yung innanet)</i> </h3>
  breaking computers with golang and running spooky infrastructure
- 
 
+  | Statistic | Value | Statistic | Value |
+  |:---------:|------:|:---------:|------:|
+  | Commits | **1545** | Issues opened | **27** |
+  | PRs opened | **64** | Stars received | **257** |
+  | Repos owned | **20** | Contributed to | **34** |
 
 ---
- 
+
  [hackcore](https://soundcloud.com/queed-inc) artist  
 
  [the original vx-underground](https://vxug.fakedoma.in) sysadmin  
@@ -18,24 +22,8 @@
 
  [PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0x4B841471B4BEE979) user: `4B841471B4BEE979`
 
-
-
 ---
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=t3wbn08kl3uunq96785bd2sl9&unique=1&width=500)
-
----
-
-  | Statistic | Value |
-  |:---------:|------:|
-  | Account age | **3** years |
-  | Commits | **1544** |
-  | Issues opened | **27** |
-  | PRs opened | **64** |
-  | Stars received | **256** |
-  | Repos owned | **20** |
-  | Contributed to | **34** public repos |
-
-
 
 </div>
