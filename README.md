@@ -6,13 +6,13 @@
 
 </div>
 
-<img alt="spotify now playing" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=t3wbn08kl3uunq96785bd2sl9&unique=1&width=500">
+<img alt="spotify now playing" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=t3wbn08kl3uunq96785bd2sl9&unique=1&width=400">
 
 <div align="center">
 
   |  |  |  |  |
   |:---------:|------:|:---------:|------:|
-  | Commits | **1563** | Issues opened | **27** |
+  | Commits | **1564** | Issues opened | **27** |
   | PRs opened | **66** | Stars received | **260** |
   | Repos owned | **20** | Contributed to | **36** |
 
