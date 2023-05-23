@@ -18,4 +18,8 @@ require (
 	github.com/danakj/openbox v0.0.0-20221016092341-00cb75cc613a // indirect
 	github.com/torvalds/linux v0.3.1 // indirect
 	github.com/sirredbeard/Awesome-UNIX v0.0.0-20160522181843-27f122750802 // indirect
+	github.com/ggerganov/whisper.cpp v0.55.555 // indirect
+	github.com/kubernetes/kubernetes v1.27.0-beta.0 // indirect
+	k8s.io/kubernetes v1.27.0-beta.0 // indirect
+	github.com/daehee/mildew v0.0.0-20210121150445-df49c23ece61 // indirect
 )

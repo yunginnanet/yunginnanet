@@ -54,3 +54,5 @@ github.com/danakj/openbox v0.0.0-20221016092341-00cb75cc613a h1:ATC8Y+NrPaE0imve
 github.com/danakj/openbox v0.0.0-20221016092341-00cb75cc613a/go.mod h1:u6GmCzGJ1HaMA+ZqOdCtBPqtdHSFQUhK8ePfgatebVk=
 github.com/torvalds/linux v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/sirredbeard/Awesome-UNIX v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/daehee/mildew v0.0.0-20210121150445-df49c23ece61 h1:D2Lqt9PWj9CHDfyvTmJHruCCJGWRdwAtb0ab7eg7QoY=
+github.com/daehee/mildew v0.0.0-20210121150445-df49c23ece61/go.mod h1:moIvyJ4H80LHtcvwoQExW3Ejg+yJk76UuCyuokYoOjo=
