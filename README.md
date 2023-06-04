@@ -13,7 +13,7 @@
   |  |  |  |  |
   |:---------:|------:|:---------:|------:|
   | Commits | **3283** | Issues opened | **31** |
-  | PRs opened | **78** | Stars received | **278** |
+  | PRs opened | **80** | Stars received | **278** |
   | Repos owned | **20** | Contributed to | **34** |
 
 </div>
