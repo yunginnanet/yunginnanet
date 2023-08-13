@@ -1,6 +1,5 @@
 <div align="center">
- <h3> kayos <i>(aka yung innanet)</i> </h3>
- breaking computers with golang and running spooky infrastructure <p />
+ <h3> kayos <i><br />(a.k.a yung innanet)</i> </h3>
 
 ---
 
@@ -24,7 +23,7 @@
   - [the original vx-underground](https://vxug.fakedoma.in) sysadmin <br />
   - [bird app](https://twitter.com/yunginnanet) user <br />
   - [matrix](https://www.matrix.org/) user: `@kayos:tcp.direct` <br />
-  - [IRC](https://github.com/ergochat/ergo) operator: `kayos` on `ircd.chat/6697 -ssl` <br />
+  - [IRC](https://github.com/ergochat/ergo) operator: `kayos`[^1] on `ircd.chat/6697 -ssl` <br />
   - [PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0x4B841471B4BEE979) user: `4B841471B4BEE979` <br />
 
----
+[^1]: pronounciation: <i>kɛjəʊs</i>
