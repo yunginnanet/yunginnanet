@@ -11,7 +11,7 @@
 
   |  |  |  |  |
   |:---------:|------:|:---------:|------:|
-  | Commits | **4049** | Issues opened | **33** |
+  | Commits | **4053** | Issues opened | **33** |
   | PRs opened | **103** | Stars received | **363** |
   | Repos owned | **27** | Contributed to | **37** |
 
@@ -26,4 +26,4 @@
   - [IRC](https://github.com/ergochat/ergo) operator: `kayos`[^1] on `ircd.chat/6697 -ssl` <br />
   - [PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0x4B841471B4BEE979) user: `4B841471B4BEE979` <br />
 
-[^1]: pronounciation: <i>kɛjəʊs</i>
+[^1]: pronunciation: <i>kɛjəʊs</i>
