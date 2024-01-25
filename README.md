@@ -1,9 +1,9 @@
 <div align="center"><h3> kayos <rp>(</rp><rt><kbd>/kɛjəʊs/</kbd></rt><rp>)</rp> <br /> <rp>(</rp><rt>a.k.a <q>yung innanet</q></rt><rp>)</rp></h3>
-<hr /><a href="https://open.spotify.com/user/t3wbn08kl3uunq96785bd2sl9"><img alt="spotify now playing" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=t3wbn08kl3uunq96785bd2sl9&unique=1&width=500&count=9"></a><div align="center">
+<hr /><a href="https://open.spotify.com/user/t3wbn08kl3uunq96785bd2sl9"><img alt="spotify now playing" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=t3wbn08kl3uunq96785bd2sl9&unique=1&width=300&count=9"></a><div align="center">
 
   |             |                         |                |                                       |
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
-  |   Commits   |       **5699** | Issues opened  |                      **33** |
+  |   Commits   |       **5704** | Issues opened  |                      **33** |
   | PRs opened  | **106** | Stars received |                       **368** |
   | Repos owned |  **27** | Contributed to | **30** |
 
