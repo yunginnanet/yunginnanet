@@ -7,15 +7,14 @@
   | PRs opened  | **276** | Stars received |                       **412** |
   | Repos owned |  **33** | Contributed to | **52** |
 
-  |             |                         |                |
-  |:-----------:|------------------------:|:--------------:|
-  |   Language   |  Go  | **99.5**% |
-  |   Language   |  Python  | **0.3**% |
-  |   Language   |  Other  | **0.1**% |
-  
+<br />&nbsp;<br />&nbsp;<br />
 
-
-
+  | Language | Percent Used |
+  |------------------------:|:--------------:|
+  | **Go** | **99.5**% |
+  | **Python** | **0.3**% |
+  | **Other** | **0.1**% |
+    
 
 <br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br /><hr /><br />
 
