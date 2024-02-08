@@ -3,11 +3,18 @@
   
   |             |                         |                |                                       |
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
-  |   Commits   |       **5900** | Issues opened  |                      **114** |
+  |   Commits   |       **5904** | Issues opened  |                      **114** |
   | PRs opened  | **276** | Stars received |                       **412** |
   | Repos owned |  **33** | Contributed to | **52** |
 
-<br /><a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a>
+  |             |                        |
+  |:-----------:|------------------------:|
+      |   Go   |       **99.5** 
+    |   Python   |       **0.3** 
+    |   Other   |       **0.1** 
+  
+
+
 <br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br /><hr /><br />
 
 - [hackcore](https://soundcloud.com/queed-inc) artist <br />
