@@ -7,7 +7,14 @@
   | PRs opened  | **{{ PULL_REQUESTS }}** | Stars received |                       **{{ STARS }}** |
   | Repos owned |  **{{ REPOSITORIES }}** | Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
 
-<br /><a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a>
+  |             |                        |
+  |:-----------:|------------------------:|
+    {{ LANGUAGE_TEMPLATE_START:max=5 }}
+  |   {{ LANGUAGE_NAME }}   |       **{{ LANGUAGE_PERCENT }}** 
+  {{ LANGUAGE_TEMPLATE_END }}
+
+
+
 <br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br /><hr /><br />
 
 - [hackcore](https://soundcloud.com/queed-inc) artist <br />
