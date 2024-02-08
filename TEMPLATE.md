@@ -7,10 +7,13 @@
   | PRs opened  | **{{ PULL_REQUESTS }}** | Stars received |                       **{{ STARS }}** |
   | Repos owned |  **{{ REPOSITORIES }}** | Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
 
-  |             |                        |
-  |:-----------:|------------------------:|{{ LANGUAGE_TEMPLATE_START:max=5 }}
-  |   {{ LANGUAGE_NAME }}   |       **{{ LANGUAGE_PERCENT }}** |
-  {{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
+  |             |                         |                |
+  |:-----------:|------------------------:|:--------------:|
+  |   Language   |  {{ LANGUAGE_NAME }}  | **{{ LANGUAGE_PERCENT }}** |
+{{ LANGUAGE_TEMPLATE_END }}
+
+
 
 
 
