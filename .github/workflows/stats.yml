@@ -14,17 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        fetch-depth: 0
-    - name: update svg    
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.notable.indepth.svg
-        token: ${{ secrets.USER_TOKEN }}
-        base: ""
-        plugin_notable: yes
-        plugin_notable_indepth: yes
-        plugin_notable_repositories: yes
-        plugin_notable_skipped: ${{ secrets.IGNORE_REPO }}    
+        fetch-depth: 0 
     - name: gen readme
       uses: teoxoy/profile-readme-stats@v1
       with:
