@@ -10,7 +10,7 @@
   |             |                        |
   |:-----------:|------------------------:|
     {{ LANGUAGE_TEMPLATE_START:max=5 }}
-  |   {{ LANGUAGE_NAME }}   |       **{{ LANGUAGE_PERCENT }}** 
+  |   {{ LANGUAGE_NAME }}   |       **{{ LANGUAGE_PERCENT }}** |
   {{ LANGUAGE_TEMPLATE_END }}
 
 
