@@ -3,18 +3,17 @@
   
   |             |                         |                |                                       |
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
-  |   Commits   |       **{{ COMMITS }}** | Issues opened  |                      **{{ ISSUES }}** |
-  | PRs opened  | **{{ PULL_REQUESTS }}** | Stars received |                       **{{ STARS }}** |
-  | Repos owned |  **{{ REPOSITORIES }}** | Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
+  |   Commits   |       **5909** | Issues opened  |                      **114** |
+  | PRs opened  | **276** | Stars received |                       **412** |
+  | Repos owned |  **33** | Contributed to | **52** |
 
-  |             |                         |                |
-  |:-----------:|------------------------:|:--------------:|
-  {{ LANGUAGE_TEMPLATE_START:max=5 }}|   Language   |  {{ LANGUAGE_NAME }}  | **{{ LANGUAGE_PERCENT }}**% |
+<br />&nbsp;<br />&nbsp;<br />
+
+  | Language | Percent Used |
+  |------------------------:|:--------------:|
+  {{ LANGUAGE_TEMPLATE_START:max=5 }}| **{{ LANGUAGE_NAME }}** | **{{ LANGUAGE_PERCENT }}**% |
   {{ LANGUAGE_TEMPLATE_END }}
-
-
-
-
+  
 
 <br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br /><hr /><br />
 
