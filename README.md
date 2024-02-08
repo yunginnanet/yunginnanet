@@ -7,7 +7,7 @@
   | PRs opened  | **276** | Stars received |                       **412** |
   | Repos owned |  **33** | Contributed to | **52** |
 
-<br />&nbsp;<br />&nbsp;<br />
+<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />
 
   | Language | Percent Used |
   |------------------------:|:--------------:|
