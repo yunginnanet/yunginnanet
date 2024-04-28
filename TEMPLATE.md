@@ -9,6 +9,7 @@
 
 
 <br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />
+<br /><a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a>
 
   | Language | Percent Used |
   |------------------------:|:--------------:|
