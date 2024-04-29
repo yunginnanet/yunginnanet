@@ -3,12 +3,12 @@
   
   |             |                         |                |                                       |
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
-  |   Commits   |       **6435** | Issues opened  |                      **116** |
+  |   Commits   |       **6436** | Issues opened  |                      **116** |
   | PRs opened  | **288** | Stars received |                       **463** |
   | Repos owned |  **34** | Contributed to | **45** |
 
 
-<br /><a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a><br />&nbsp;<br />&nbsp;
+<a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a><br />&nbsp;
 
   | Language | Percent Used |
   |------------------------:|:--------------:|
@@ -17,9 +17,7 @@
   | **Other** | **0.1**% |
     
 
-<br />&nbsp;<br />&nbsp;<br />
-
-<hr />
+<br /><hr />
 
 - [hackcore](https://soundcloud.com/queed-inc) artist <br />
 - [the original vx-underground](https://vxug.fakedoma.in) sysadmin <br />
