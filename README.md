@@ -3,12 +3,12 @@
   
   |             |                         |                |                                       |
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
-  |   Commits   |       **6433** | Issues opened  |                      **116** |
+  |   Commits   |       **6434** | Issues opened  |                      **116** |
   | PRs opened  | **288** | Stars received |                       **463** |
   | Repos owned |  **34** | Contributed to | **45** |
 
 
-<br />&nbsp;<br /><a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a>
+<br />&nbsp;<br /><a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a><br />&nbsp;
 
   | Language | Percent Used |
   |------------------------:|:--------------:|
