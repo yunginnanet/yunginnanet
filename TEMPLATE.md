@@ -8,7 +8,7 @@
   | Repos owned |  **{{ REPOSITORIES }}** | Contributed to | **{{ REPOSITORIES_CONTRIBUTED_TO }}** |
 
 
-<a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a><br />&nbsp;<br />
+<a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a><br />&nbsp;<br />&nbsp;<br />&nbsp;<br />
 
   | Language | Percent Used |
   |------------------------:|:--------------:|
