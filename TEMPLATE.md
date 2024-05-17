@@ -16,7 +16,7 @@
   {{ LANGUAGE_TEMPLATE_END }}
   
 
-<br /><hr />
+<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br /><hr />
 
 - [hackcore](https://soundcloud.com/queed-inc) artist <br />
 - [the original vx-underground](https://vxug.fakedoma.in) sysadmin <br />
