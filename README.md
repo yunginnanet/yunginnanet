@@ -3,9 +3,9 @@
   
   |             |                         |                |                                       |
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
-  |   Commits   |       **2299** | Issues opened  |                      **37** |
+  |   Commits   |       **2304** | Issues opened  |                      **37** |
   | PRs opened  | **117** | Stars received |                       **497** |
-  | Repos owned |  **40** | Contributed to | **30** |
+  | Repos owned |  **41** | Contributed to | **30** |
 
 
 <a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a><br />&nbsp;<br />&nbsp;<br />&nbsp;<br />
@@ -14,7 +14,7 @@
   |------------------------:|:--------------:|
   | **Go** | **99.5**% |
   | **Python** | **0.2**% |
-  | **Other** | **0.1**% |
+  | **Shell** | **0.1**% |
     
 
 <br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br /><hr />
