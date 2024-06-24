@@ -5,7 +5,7 @@
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
   |   Commits   |       **2352** | Issues opened  |                      **37** |
   | PRs opened  | **124** | Stars received |                       **508** |
-  | Repos owned |  **42** | Contributed to | **32** |
+  | Repos owned |  **42** | Contributed to | **31** |
 
 
 <a href="#"><img alt="notable contributions" align="right" width="44%" src="metrics.plugin.notable.indepth.svg"></a><br />&nbsp;<br />&nbsp;<br />&nbsp;<br />
