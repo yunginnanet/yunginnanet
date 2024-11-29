@@ -4,7 +4,7 @@
   |             |                         |                |                                       |
   |:-----------:|------------------------:|:--------------:|--------------------------------------:|
   |   Commits   |       **1689** | Issues opened  |                      **40** |
-  | PRs opened  | **137** | Stars received |                       **987** |
+  | PRs opened  | **137** | Stars received |                       **990** |
   | Repos owned |  **46** | Contributed to | **25** |
 
 
